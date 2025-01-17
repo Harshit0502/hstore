@@ -1,1 +1,1 @@
-# hstore
+# CreditCompass
